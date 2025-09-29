@@ -2,9 +2,7 @@
 
   <a name="readme-top"></a>
 
-  <h1>AI2Apps</h1>
-
-  [English](./README.md) · 中文
+  AI2Apps [English](./README.md) · 中文
 
 </div>
 
