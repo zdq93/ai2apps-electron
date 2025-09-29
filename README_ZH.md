@@ -17,7 +17,7 @@
 > 通过**本地智能体引擎**，AI2Apps 实现了低成本、隐私安全的计算与分发，致力于成为 **个人 AI PC** 的应用入口。
 
 <div align="center">
-  <img src="assets/AI2Apps-intro.png">
+  <img src="AI2Apps-intro.png">
 </div>
 
 ## ✨ 功能亮点
