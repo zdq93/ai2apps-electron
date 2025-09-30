@@ -6,8 +6,6 @@
 
   <h1>AI2Apps</h1>
 
- [English](./README.md) · 中文
-
   [![RedNote](https://img.shields.io/badge/RedNote-AI2Apps-red)](https://www.xiaohongshu.com/user/profile/5fdeafe6000000000100a1f3)
   
 </div>
