@@ -9,7 +9,6 @@
  [English](./README.md) · 中文
 
   [![RedNote](https://img.shields.io/badge/RedNote-AI2Apps-red)](https://www.xiaohongshu.com/user/profile/5fdeafe6000000000100a1f3)
-  [![Github](https://img.shields.io/badge/Github-AI2Apps-blue?logo=github)](https://github.com/continue-ai-company)
   
 </div>
 
