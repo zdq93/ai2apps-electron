@@ -61,10 +61,8 @@
   
 ## 🚀 快速开始
 
-- Web版详细安装步骤，请参考[用户手册](https://github.com/continue-ai-company/AI2Apps-user-manual/blob/main/README-zh_CN.md)。
 
-- App安装与启动文档即将更新。
-  
+
 ## 📝 引用
 
 如果您觉得我们的工作对您的研究或应用有帮助，请引用我们的论文： 
@@ -99,7 +97,7 @@
 }
 ```
 
-## 📚︎ License
+## 📜 License
 
 本项目将以开源协议发布，具体 License 将在正式版中更新。
 
