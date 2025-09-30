@@ -2,7 +2,7 @@
 
   <a name="readme-top"></a>
 
-  <img height="180" src="assets/aalogo.svg">
+  <img height="180" src="aalogo.svg">
 
   <h1>AI2Apps</h1>
 
