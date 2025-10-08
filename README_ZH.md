@@ -2,12 +2,10 @@
 
   <a name="readme-top"></a>
 
-  <img height="180" src="aalogo.svg">
-
-  <h1>AI2Apps</h1>
+  <img src="logo2.png" width="300">
 
   [![RedNote](https://img.shields.io/badge/RedNote-AI2Apps-red)](https://www.xiaohongshu.com/user/profile/5fdeafe6000000000100a1f3)
-  
+
 </div>
 
 ## 📦 项目简介
@@ -17,7 +15,7 @@
 > 通过**本地智能体引擎**，AI2Apps 实现了低成本、隐私安全的计算与分发，致力于成为 **个人 AI PC** 的应用入口。
 
 <div align="center">
-   <img src="aa-intro.png">
+  <img src="intro.png">
 </div>
 
 ## ✨ 功能亮点
@@ -29,7 +27,7 @@
 - **多信源聚合**：实时获取谷歌、百度、小红书、X、领英、维基百科、知乎等信源，结合 LLM 自动总结与趋势提炼。
 
 - **应用驱动**：从资讯到模型，从检索到生成，形成可分享的智能体玩法。
-  
+
 ## 💡 应用玩法
 
 🔎 **资讯相关**
@@ -55,10 +53,76 @@
 - **互动创作**：基于资讯或热点，用户 ➕ AI 共同完成故事接龙/短剧本。
 
 - **个性化资讯包**：资讯 ➕ 模型处理 ➡️ 生成多模态资讯包（文字+图+音频），可分享/社交。
-  
+
 ## 🚀 快速开始
 
+### 本地部署
 
+1. 安装 [Anaconda](https://www.anaconda.com/) 
+
+2. 下载 [AI2Apps Demo](https://github.com/Avdpro/ai2apps)
+
+```bash
+git clone https://github.com/Avdpro/ai2apps.git
+```
+
+3. 修改.env文件，配置正确的OpenAI Key以及服务端口，默认的端口是3015。
+
+```
+APIROOT=https://www.ai2apps.com/ws/
+OPENAI_API_KEY=sk-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+PORT=3015
+
+# 注释解除
+AAF_EXECUATABLE=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+```
+
+4. 安装依赖
+
+```bash
+cd ai2apps
+npm install
+```
+
+```bash
+cd agents
+pip install -r requirements.txt
+```
+
+5. 启动项目
+
+```bash
+cd ai2apps
+node ./start.js
+```
+> 当 ai2apps 项目启动成功后，浏览器将自动打开 dashboard 页面。
+> 如果您是第一次访问，请先注册一个新账号，按照提示填写必要的信息以创建您的账号。
+> 注册完成后，使用您刚刚创建的账号信息进行登录。
+> 登录成功后，您将能够访问并使用 dashboard 页面。
+
+<p>
+  <img src="./dashboard.jpg" alt="home" />
+</p>
+
+### 体验 AI Frontier
+
+1. 点击 dashboard 页面中间区域 `AI Frontier` 卡片，即可进入模型展示页，如下图所示。
+
+<p>
+  <img src="AI_Frontier.jpg" alt="home" />
+</p>
+
+2. 在模型列表页面，您可以自由选择任一模型以查看其详细信息（如下载量、模型大小、模型类别、模型介绍、模型评分等），并实现快速部署与模型体验。以 FastVLM 模型为例，操作步骤如下：
+
+- 点击 `FastVLM` 卡片，进入该模型的详情页。
+
+- 点击右上角 `智能部署` 按钮，将立即启动模型部署流程。
+
+<p>
+  <img src="AI_Frontier_deploy.jpg" alt="home" />
+</p>
+
+> 为了帮助您更直观地了解整个部署过程，我们提供了详细的视频教程，您可以通过以下链接查看：[视频教程](https://github.com/zdq93/zdq93.github.io)。
 
 ## 📝 引用
 
