@@ -2,7 +2,7 @@
 
   <a name="readme-top"></a>
 
-   <p style="font-size:36px"> AI2Apps </p>
+  <img src="logo2.png" width="300">
   <p style="font-size:24px">本地优先的通用 AI 智能体平台</p>
   <h1></h1>
   <p>让 AI 回到你的电脑中，成为属于你的智能伙伴。</p>
