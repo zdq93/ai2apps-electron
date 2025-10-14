@@ -2,8 +2,11 @@
 
   <a name="readme-top"></a>
 
-  <img src="logo2.png" width="300">
-
+   <p style="font-size:36px"> AI2Apps </p>
+  <p style="font-size:24px">本地优先的通用 AI 智能体平台</p>
+  <h1></h1>
+  <p>让 AI 回到你的电脑中，成为属于你的智能伙伴。</p>
+  <p>AI2Apps 是一个`本地优先`的通用 AI 智能体平台，连接从信息感知、模型部署到创作生产的完整链路，让每个人都能在个人电脑上运行、控制并创造属于自己的 AI 能力。</p>
   [![RedNote](https://img.shields.io/badge/RedNote-AI2Apps-red)](https://www.xiaohongshu.com/user/profile/5fdeafe6000000000100a1f3)
 
 </div>
