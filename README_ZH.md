@@ -146,7 +146,7 @@ node ./start.js
 - 点击右上角 `智能部署` 按钮，将立即启动模型部署流程。
 
 <p>
-  <img src="./assets/AI_Frontier_deploy.jpg" alt="home" />
+  <img src="AI_Frontier_deploy.jpg" alt="home" />
 </p>
 
 > 为了帮助您更直观地了解整个部署过程，我们提供了详细的视频教程，您可以通过以下链接查看：[视频教程](https://github.com/zdq93/zdq93.github.io)。
