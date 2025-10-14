@@ -120,7 +120,7 @@ node ./start.js
 > 登录成功后，您将能够访问并使用 dashboard 页面。
 
 <p>
-  <img src="./assets/dashboard.jpg" alt="home" />
+  <img src="dashboard.jpg" alt="home" />
 </p>
 
 ### 🚀 体验 AI Frontier
@@ -128,7 +128,7 @@ node ./start.js
 1. 点击 dashboard 页面中间区域 `AI Frontier` 卡片，即可进入模型展示页，如下图所示。
 
 <p>
-  <img src="./assets/AI_Frontier.jpg" alt="home" />
+  <img src="AI_Frontier.jpg" alt="home" />
 </p>
 
 2. 在模型列表页面，您可以自由选择任一模型以查看其详细信息（如下载量、模型大小、模型类别、模型介绍、模型评分等），并实现快速部署与模型体验。以 FastVLM 模型为例，操作步骤如下：
@@ -138,7 +138,7 @@ node ./start.js
 - 点击右上角 `智能部署` 按钮，将立即启动模型部署流程。
 
 <p>
-  <img src="./assets/AI_Frontier_deploy.jpg" alt="home" />
+  <img src="AI_Frontier_deploy.jpg" alt="home" />
 </p>
 
 > 为了帮助您更直观地了解整个部署过程，我们提供了详细的视频教程，您可以通过以下链接查看：[视频教程](https://github.com/zdq93/zdq93.github.io)。
